@@ -1,0 +1,36 @@
+#calculator{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+    height: 400px;
+    background-image: url(Image.jpeg);
+    font-weight: 4px solid bold;
+    font-size: 20px;
+
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+.Button{
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+.button-container1{
+    display: flex;
+    justify-content: center;
+}
+.button-container2{
+    display: flex;
+    justify-content: center;
+}
